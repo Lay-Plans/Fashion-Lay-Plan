@@ -1,2 +1,2 @@
-# Fashion-Lay-Plan
+# Garment-Lay-Plan
 Fashion tool to create lay plans
